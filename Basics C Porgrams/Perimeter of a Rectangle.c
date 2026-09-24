@@ -10,7 +10,7 @@ int main()
 
     perimeter =2*(length+width);
 
-    printf(Perimeter of a Rectangle = %.2f",perimeter);
+    printf("Perimeter of a Rectangle = %.2f",perimeter);
 
     return 0;
 }
