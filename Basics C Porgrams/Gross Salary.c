@@ -8,8 +8,6 @@ int main()
     printf("Enter bS,hR,mA: ");
     scanf("%f %f %f", &bS,&hR,&mA);
 
-
-
     gS = bS + hR + mA ;
 
     printf("Gross Salary = %.2f", gS);
