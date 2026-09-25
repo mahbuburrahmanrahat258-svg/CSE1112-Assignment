@@ -4,7 +4,7 @@ int main()
     int tD, y, m, d;
     //tD=totalDays,y=years,m=months,d=days;
 
-    printf("Enter td=: ");
+    printf("Enter tD=: ");
     scanf("%d", &tD);
 
     y = tD / 365;
