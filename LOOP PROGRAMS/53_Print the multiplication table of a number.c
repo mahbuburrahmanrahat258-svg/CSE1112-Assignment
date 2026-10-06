@@ -1,9 +1,7 @@
 #include <stdio.h>
-
 int main()
 {
     int n, i;
-
     printf("Enter a number: ");
     scanf("%d", &n);
 
@@ -11,6 +9,5 @@ int main()
     {
         printf("%d * %d = %d\n", n, i, n * i);
     }
-
     return 0;
 }
