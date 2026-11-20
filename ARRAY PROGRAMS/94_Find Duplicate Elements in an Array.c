@@ -5,14 +5,12 @@ int main()
     scanf("%d", &n);
 
     printf("Enter array elements:\n");
-
     for(i = 0; i < n; i++)
     {
         scanf("%d", &a[i]);
     }
 
     printf("Duplicate elements are:\n");
-
     for(i = 0; i < n; i++)
     {
         found = 0;
